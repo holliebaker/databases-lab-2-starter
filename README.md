@@ -1,7 +1,7 @@
 # Databases Lab 2
 
 1. Go to repl.it.
-1. Cleate a new repl
+1. Create a new repl
 1. Select import from git repository.
 1. Enter the following URL to import this repo.
 ```
