@@ -1,0 +1,3 @@
+language = "bash"
+run = "echo 'Type sqlite3 to get started.'"
+
